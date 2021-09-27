@@ -1,0 +1,4 @@
+enum Gunler {
+    PAZARTESI, SALI, CARSAMBA, PERSEMBE, CUMA, CUMARTESİ, PAZAR;
+
+}
